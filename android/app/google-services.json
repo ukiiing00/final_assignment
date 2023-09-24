@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933760627681",
+    "project_id": "final-assignment-uk",
+    "storage_bucket": "final-assignment-uk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933760627681:android:d895d14720040694cb58a0",
+        "android_client_info": {
+          "package_name": "com.example.final_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8w9-n6Aw4ovdXakyd0AIod1jxf-lCHtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
